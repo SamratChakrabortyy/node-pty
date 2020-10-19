@@ -44,9 +44,7 @@
     "prepublishOnly": "npm run build"
   },
   "dependencies": {
-    "nan": "^2.14.0"
-  },
-  "devDependencies": {
+    "nan": "^2.14.0",
     "@types/mocha": "^7.0.2",
     "@types/node": "8",
     "@typescript-eslint/eslint-plugin": "^2.27.0",
@@ -56,5 +54,6 @@
     "mocha": "^7.1.1",
     "ps-list": "^6.0.0",
     "typescript": "^3.8.3"
-  }
+  },
+  "devDependencies": {}
 }
